@@ -12,8 +12,10 @@ A fun and interactive quiz app built with **React** and **Vite**! Test your know
 * **Score Tracking**: Track your progress and see how well you did at the end.
 * **Randomized Questions**: Each quiz session can have different questions to keep it fresh!
 
-![Screenshot](![[image](https://github.com/user-attachments/assets/f7d86e4e-b0d0-4a07-a656-7ed5132a5151](https://drive.google.com/file/d/1VnEM0bqcLnp98mBczfC3wnWTIjZBE0ot/view?usp=sharing))
+![Screenshot](![Screenshot 2025-01-31 225535](https://github.com/user-attachments/assets/eca4c04d-75da-42bd-a342-5cbf1d5a3153)
 )
+
+### Video Link - https://drive.google.com/file/d/1pd0MpF2gioEVLM-6d3Al_RzTACn3Kw2_/view?usp=sharing
 
 ## Features
 * **Multiple-Choice Questions**: Test your knowledge on various topics.
